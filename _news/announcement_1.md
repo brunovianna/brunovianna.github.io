@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 01 mar 2022 13:26:40 CEST
 inline: true
 ---
 
-A simple inline announcement.
+My panel "Art Intelligence" was accepted at ISEA 2022 conference in Barcelona. More info soon.

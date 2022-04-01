@@ -1,9 +1,9 @@
 ---
 layout: page
-title: submenus
+title: projects
 nav: true
 dropdown: true
-children: 
+children:
     - title: publications
       permalink: /publications/
     - title: divider
