@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exhibition at the Finnish Museum of Photohgraphy
+title: Coming soon at the Finnish Museum of Photohgraphy
 date:  01 abr 2022 12:26:40 CEST
 inline: false
 ---
