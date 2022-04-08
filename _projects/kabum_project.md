@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: creative coding
+description: Teaching at Oi Kabum Rio, 2012-2018
+img:
+redirect: http://oikabumlab.org.br/site/
+importance: 3
+category: [work, teaching]
 ---
 
 Every project has a beautiful feature showcase page.

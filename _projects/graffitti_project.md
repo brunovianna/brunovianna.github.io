@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: graffitti
+description: experiment based on time scratching
+img: assets/img/graffitti.jpg
+importance: 1
+redirect: https://vimeo.com/brunovianna/graffiti
+category: [personal, videoart]
 ---
 
 Every project has a beautiful feature showcase page.

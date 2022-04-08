@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: dwarf planet
+description: experiment based on time glitchess
+img: assets/img/planetaanao.jpg
+importance: 1
+redirect: https://vimeo.com/brunovianna/planetaanao
+category: [personal, videoart]
 ---
 
 Every project has a beautiful feature showcase page.

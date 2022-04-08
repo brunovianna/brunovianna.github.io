@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: zona árida
+description: javascript coding for interactive documentary
+img: assets/img/zonaarida.jpg
+redirect: https://zonaarida.com.br/
+importance: 3
+category: [work, coding]
 ---
 
 Every project has a beautiful feature showcase page.

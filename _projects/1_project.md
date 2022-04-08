@@ -2,9 +2,9 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
+img: assets/img/dispersao.jpg
+importance: 2
+category: [personal, film]
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: ressaca
+description: live cinema coming to age tale for movie theaters
+img: assets/img/ressaca.jpg
+importance: 1
+redirect: https://ressaca.net/
+category: [personal, 'interactive film']
 ---
 
 Every project has a beautiful feature showcase page.

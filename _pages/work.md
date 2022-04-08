@@ -1,13 +1,13 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A collection of personal projects.
+title: work
+permalink: /work/
+description: Stuff I've done for work.
 nav: true
-display_categories: ['interactive film', videoart, documentary, 'short film']
+display_categories: [teaching,coding]
 horizontal: false
 ---
-<!-- note: I'm categorizing 'projects' as 'personal' -- stuff I developed myself -->
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

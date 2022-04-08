@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: a dynamogram
+description: 3d.js coding for erick beltrán's project
+img: assets/img/adynamogram.jpg
+redirect: https://adynamogram.net/
+importance: 3
+category: [work, coding]
 ---
 
 Every project has a beautiful feature showcase page.

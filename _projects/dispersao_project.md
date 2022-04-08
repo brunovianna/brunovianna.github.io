@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: dispersão
+description: mobile phone controlled feature for movie theaters
+img: assets/img/dispersao.jpg
+importance: 1
+redirect: https://dispersao.net/
+category: [personal, 'interactive film']
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: artificial intelligence for creative projects
+description: remote course on creativity and artificial intelligence
+img:
+redirect: https://weareshifta.com/short-courses/artificial-intelligence-creative-projects
+importance: 3
+category: [work, teaching]
 ---
 
 Every project has a beautiful feature showcase page.

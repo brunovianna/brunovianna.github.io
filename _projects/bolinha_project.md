@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: satélite bolinha
+description: documentary on brazilian satellite hackers
+img: assets/img/satelitebolinha.jpg
+importance: 1
+redirect: https://www.youtube.com/watch?v=veDZfejpbs8
+category: [personal, documentary]
 ---
 
 Every project has a beautiful feature showcase page.

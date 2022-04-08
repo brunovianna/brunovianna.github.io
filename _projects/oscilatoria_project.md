@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: oscilatoria
+description: a broken oscillator, a buggy mp4 compressor, a seascape
+img: assets/img/oscillatoria.jpg
+importance: 1
+redirect: https://vimeo.com/brunovianna/oscillatoria
+category: [personal, videoart]
 ---
 
 Every project has a beautiful feature showcase page.
