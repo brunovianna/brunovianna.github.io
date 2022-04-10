@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Teacher, researcher, creative technologist
+subtitle: education, art+research, creative technologies
 
 profile:
   align: right
