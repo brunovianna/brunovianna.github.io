@@ -6,7 +6,7 @@ subtitle: education, art+research, creative technologies
 
 profile:
   align: right
-  image: bruno.jpg
+  image: bruno_casa.jpg
   address:
 
 news: true  # includes a list of news items
