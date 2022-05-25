@@ -1,9 +1,9 @@
 ---
 layout: post
-title: New piece coming soon at the Finnish Museum of Photography
-date:  01 abr 2022 12:26:40 CEST
+title: Debates around Paradoxes of Photography exhibition in Helsinki
+date:  22 may 2022 12:26:40 CEST
 inline: false
 related_posts: false
 ---
 
-I'm participating in the Paradoxes of Photography, at the <a href="https://www.valokuvataiteenmuseo.fi/en/">Finnish Museum of Photography</a>, curated by my thesis supervisor Mika Elo. Opening on May 12, 2022, 19:00.
+I'm participating in two discussions around the exhibition Paradoxes of Photography in Helsinki: the <a href="https://research.tuni.fi/visualstudieslab/event/photographic-epistemologies-symposium-11-6-2022/">Photographic Epistemologies symposium</a> on June 11th and a discussion on Infrastructures of visuality at the Museum on June 10th, 4-6pm.
