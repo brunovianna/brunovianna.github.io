@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New piece coming soon at the Finnish Museum of Photohgraphy
+title: New piece coming soon at the Finnish Museum of Photography
 date:  01 abr 2022 12:26:40 CEST
 inline: false
 related_posts: false
