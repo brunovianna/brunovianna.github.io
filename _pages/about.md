@@ -20,3 +20,5 @@ I teach related courses at Elisava Design School in Barcelona, where I am based.
 
 I have created projects in a wide variety of supports such as mobile apps, installations and fiction feature films. I taught
 in the Art and Technology School Oi Kabum! in Rio de Janeiro for 6 years, and run the Nuvem laboraroty for art and technology, in the countryside of Brasil, for 5 years.
+
+Check my previous <a href="https://brunovianna.net/">site and timegraph</a>.
