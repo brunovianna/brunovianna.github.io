@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A collection of personal projects.
 nav: true
-display_categories: ['interactive film', videoart, documentary, shortfilm]
+display_categories: [exhibition, 'interactive film', videoart, documentary, shortfilm]
 horizontal: false
 ---
 <!-- note: I'm categorizing 'projects' as 'personal' -- stuff I developed myself -->
