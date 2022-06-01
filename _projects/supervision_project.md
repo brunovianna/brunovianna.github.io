@@ -13,6 +13,7 @@ A 6 meter wide tableau with 12.864 pictures from the museum's digital collection
 
 Download the full image from <a href="https://brunovianna.net/supervision_600cm.jpg">here</a>. Open with photoshop or gimp.
 
+The code written for the piece is available as <a href="https://github.com/brunovianna/collectionview">open source</a> (with some features still missing).
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
