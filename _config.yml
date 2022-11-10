@@ -69,6 +69,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: brunovianna
 gitlab_username: brunovianna
 twitter_username: brunovianna
+mastodon_username: brunovianna
+mastodon_instance: mastodon.social
 linkedin_username: bruvianna
 scholar_userid: # your Google Scholar ID
 orcid_id:  0000-0003-0213-6115
@@ -82,6 +84,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
+
 
 contact_note: >
   Please use <a href="mailto:bruno@pobox.com">email</a> to contact me.
