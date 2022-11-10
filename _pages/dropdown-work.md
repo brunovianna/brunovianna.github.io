@@ -1,7 +1,7 @@
 ---
 layout: page
 title: work
-nav: true
+nav: false
 dropdown: true
 children:
     - title: teaching

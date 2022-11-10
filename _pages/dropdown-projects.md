@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-nav: true
+nav: false
 nav_order: 6
 dropdown: true
 children:
