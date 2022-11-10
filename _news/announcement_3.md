@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 02 mar 2022 13:26:40 CEST
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The paper "The Bartleby Machine" was accepted at the ISEA 2022 in Barcelona :sparkles:
