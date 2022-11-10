@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debates around Paradoxes of Photography exhibition in Helsinki
-date:  22 may 2022 12:26:40 CEST
+date:  11 jun 2022 12:26:40 CEST
 inline: false
 ---
 
