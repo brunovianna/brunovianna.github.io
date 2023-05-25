@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 02 mar 2022 13:26:40 CEST
+date: 25 may 2023 13:26:40 CEST
 inline: true
 related_posts: false
 ---
 
-The paper "The Bartleby Machine" was accepted at the ISEA 2022 in Barcelona :sparkles:
+I'll present a conference on Autopoietic Arrangements in AI at the RAIN+ festival, Barcelona, on June 13th.
