@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 25 may 2023 13:26:40 CEST
+date: 01 june 2023 13:26:40 CEST
 inline: true
 related_posts: false
 ---
 
-I'll present a conference on Autopoietic Arrangements in AI at the RAIN+ festival, Barcelona, on June 13th.
+I'm teaching a one-day workshop on AI and Creativity at the headquaters of <a href="https://vinted.com">Vinted</a> in Vilnius, in late June.
