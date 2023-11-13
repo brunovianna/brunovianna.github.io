@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Debates around Paradoxes of Photography exhibition in Helsinki
-date:  22 may 2022 12:26:40 CEST
-inline: false
+title: Presentation at the +Rain festival in Barcelona
+date:  13 june 2023 12:26:40 CEST
+inline: true
 related_posts: false
 ---
 
-I'm participating in two discussions around the exhibition Paradoxes of Photography in Helsinki: the <a href="https://research.tuni.fi/visualstudieslab/event/photographic-epistemologies-symposium-11-6-2022/">Photographic Epistemologies symposium</a> on June 11th and a discussion on Infrastructures of visuality at the Museum on June 10th, 4-6pm.
+I'm going to present paper on the visual aesthetics biases of text to image models in <a href="https://iconcmt.fhstp.ac.at/programme#accordion-171106-content">International Conference on Creative\Media/Technologies</a> in St. Pölten, Austria on November 28th.
