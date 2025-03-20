@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-I have a chapter in the book organized by Jussi Parikka and Samit Bhowmik named 
+I have a chapter in the book organized by Jussi Parikka and Samir Bhowmik named 
 <a href="https://taju.uniarts.fi/handle/10024/7846">Environment, Data, Contamination</a>. The text, <i>Surface and Streaks,</i> relates the impact of Amazon deforestation viewed as scars.
