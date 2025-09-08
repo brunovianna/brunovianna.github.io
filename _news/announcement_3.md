@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chapter in Jussi Parikka and Samir Bhowmik's book
-date:  01 nov 2023 12:26:40 CEST
+title: An article on AI's linguistic turn
+date:  01 jul 2025 12:26:40 CEST
 inline: true
 related_posts: false
 ---
 
-I have a chapter in the book organized by Jussi Parikka and Samir Bhowmik named 
-<a href="https://taju.uniarts.fi/handle/10024/7846">Environment, Data, Contamination</a>. The text, <i>Surface and Streaks,</i> relates the impact of Amazon deforestation viewed as scars.
+I have published a short paper on the "Linguistic Turn" of AI, part of the <a href="https://iconcmt.fhstp.ac.at/">ICONCMT</a> conference: 
+<a href="https://phaidra.fhstp.ac.at/o:7213">Meaning and Language in AI's own linguistic turn</a>. 
