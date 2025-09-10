@@ -16,8 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a professor at <a href="https://citm.upc.edu">CITM</a>, Polytech University of Catalonia's (UPC) center for image and multimedia studies. I have a PhD from the University of the Arts in Helsinki, where I researched Artificial Intelligence and Visual Arts. The thesis is published <a href="https://taju.uniarts.fi/handle/10024/8130">here</a>. I have a master's degree in <a href="https://itp.nyu.edu">Interactive Communications</a> from NYU.
 
-I teach courses related to creative AI at <a href="https://elisava.net">Elisava</a> and other institutions. I develop projects with creative and social use of technology, cooperating with non-profits such as <a href="https://coolab.org">Coolab</a>, <a href="https://digicoria.org/">Digicoria</a>, and <a href="https://getdweb.net">Dweb</a>.
+I teach courses related to creative AI at <a href="https://elisava.net">Elisava</a>, <a href="https://labasad.com">Labasad</a> and other institutions. I develop projects with creative and social use of technology, cooperating with non-profits such as <a href="https://coolab.org">Coolab</a>, <a href="https://digicoria.org/">Digicoria</a>, and <a href="https://getdweb.net">Dweb</a>.
 
-I have created projects in a wide variety of supports such as mobile apps, installations and fiction feature films. I taught in the Art and Technology School Oi Kabum! in Rio de Janeiro for 6 years, and run the Nuvem laboraroty for art and technology, in the countryside of Brasil, for 5 years.
+I have created projects in a wide variety of supports such as mobile apps, installations and fiction feature films. I taught in the Art and Technology School Oi Kabum! in Rio de Janeiro for 6 years, and ran the Nuvem laboratory for art and technology, in the countryside of Brasil, for 5 years.
 
 Check my previous <a href="https://brunovianna.net/">site and timegraph</a>.
