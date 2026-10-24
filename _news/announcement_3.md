@@ -1,10 +1,9 @@
 ---
 layout: post
-title: An article on AI's linguistic turn
-date:  01 jul 2025 12:26:40 CEST
+title: Article on Communication & Society
+date:  12 jun 2026 12:26:40 CEST
 inline: true
 related_posts: false
 ---
 
-I have published a short paper on the "Linguistic Turn" of AI, part of the <a href="https://iconcmt.fhstp.ac.at/">ICONCMT</a> conference: 
-<a href="https://phaidra.fhstp.ac.at/o:7213">Meaning and Language in AI's own linguistic turn</a>. 
+I have a new article on Communication & Society: <a href="https://revistas.unav.edu/index.php/communication-and-society/article/view/51169">Ethical and societal challenges in the use of generative AI in communication</a>. 
