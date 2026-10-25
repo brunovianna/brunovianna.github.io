@@ -5,7 +5,7 @@ description: interactive outdoors video performance on kites
 img: assets/img/ceudapalavra.jpg
 importance: 1
 redirect: https://vimeo.com/brunovianna/ceudapalavra
-category: [personal, videoart]
+category: [personal, 'interactive film']
 ---
 
 Every project has a beautiful feature showcase page.
